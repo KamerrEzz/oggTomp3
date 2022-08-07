@@ -21,5 +21,5 @@ una vez instalado ejecuta `py index.py`
 
 ### windows
 
-Ejecuta el archivo que esta dentro de `/dist/index.exe`
+Ejecuta el archivo que esta dentro de `/output/index.exe`
 o descargarlo desde la `Release `
